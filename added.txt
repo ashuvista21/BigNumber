@@ -1,0 +1,7 @@
+Comparison
+Addition
+Subtraction
+Multiplication
+Division
+Calculator
+Absolute
