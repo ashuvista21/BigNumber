@@ -1,7 +1,7 @@
 # bigdecimal.h 
 ## Header File for C++
 
-This header file if for C++ for mingw complier.
+This header file is for C++ for mingw complier.
 The purpose of this header file is to calculate results with greater accuracy.
 It can handle numbers of any length.
 It can add, subtract, multiply, divide and compare numbers of any length and give results accurately without the limitation of standard datatypes.
